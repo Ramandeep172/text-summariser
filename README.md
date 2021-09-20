@@ -21,6 +21,7 @@ Step 2. run command pip install -r requirements.txt <br/>
 Step 3. run command app.py and open localhost:5000 to view the application
 
 
+# Screenshots of website
 <img
 src="./Screenshot1.png"
 raw=true
@@ -30,6 +31,22 @@ style="margin-right: 10px;"
 
 <img
 src="./Screenshot2.png"
+raw=true
+alt="Screenshots"
+style="margin-right: 10px;"
+/>
+
+# Data preprocessing steps
+<img
+src="./1_pzjECYWP8WOWhwfCjebZVw.png"
+raw=true
+alt="Screenshots"
+style="margin-right: 10px;"
+/>
+
+# Methodology flowchart
+<img
+src="./Screenshot (178).png"
 raw=true
 alt="Screenshots"
 style="margin-right: 10px;"
