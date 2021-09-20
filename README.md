@@ -15,7 +15,7 @@ Latent semantic analysis -> Latent semantic analysis (LSA) is a technique in nat
 Visit the website https://my-text-summariser.herokuapp.com/ to view the application. Fill the form as shown. Enter text or file and select the options to get required output.
 
 # How to replicate
-Basic requirements- Python 3.7 or above\ 
-Step 1. clone and download the project\ 
-Step 2. run command pip install -r requirements.txt\ 
+Basic requirements- Python 3.7 or above <br/>
+Step 1. clone and download the project <br/>
+Step 2. run command pip install -r requirements.txt <br/>
 Step 3. run command app.py and open localhost:5000 to view the application
