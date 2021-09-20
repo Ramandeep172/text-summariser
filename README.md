@@ -19,3 +19,18 @@ Basic requirements- Python 3.7 or above <br/>
 Step 1. clone and download the project <br/>
 Step 2. run command pip install -r requirements.txt <br/>
 Step 3. run command app.py and open localhost:5000 to view the application
+
+
+<img
+src="./Screenshot1.png"
+raw=true
+alt="Screenshots"
+style="margin-right: 10px;"
+/>
+
+<img
+src="./Screenshot2.png"
+raw=true
+alt="Screenshots"
+style="margin-right: 10px;"
+/>
