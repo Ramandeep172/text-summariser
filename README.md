@@ -1,4 +1,4 @@
-# text-summariser
+# TEXT-SUMMARISER
 
 Text summariser is as the name suggests a text summarisation application. Three Natural language processing(NLP) algorithms have been implemented - textrank, latent semantic analysis and kl-sum which were chosen after researching the commonly used algorithms and comparing their accuracies, performances and popularity. 
 
